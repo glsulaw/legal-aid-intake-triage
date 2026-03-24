@@ -2,7 +2,7 @@
 
 name: legal-aid-intake-triage
 
-description: This skill is designed for initial intake and triage of potential legal aid clients. Use this when a user presents a legal problem, received a court notice, or asks for legal help. It guides the user through fact-gathering, assesses urgency (especially for evictions or safety issues), and provides general legal information. Triggered by: "I need legal help," "I'm being sued," "I got an eviction notice," or "What are my rights?"
+description: This skill is designed for initial intake and triage of potential legal aid clients. Use this when a user presents a legal problem, received a court notice, or asks for legal help. It guides the user through fact-gathering, assesses urgency (especially for evictions or safety issues), and provides general legal information. Triggered by, "I need legal help," "I'm being sued," "I got an eviction notice," or "What are my rights?"
 
 \---
 
