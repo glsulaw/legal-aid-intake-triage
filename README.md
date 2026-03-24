@@ -13,6 +13,9 @@
 - "I'm being sued by a credit card company in East Baton Rouge Parish and I have a court date next week.""
 ## Design Notes
 - **Scenario:** [Option A — Legal Aid Intake Triage]
-- **Workflow steps:** 7 distinct steps, moving from safety/jurisdiction to fact-gathering, and ending with resource mapping and urgency summaries.- **Key design choice:** The most important decision was implementing a "Safety First" trigger. Before asking any details about the legal merits of a case, the skill is hard-coded to check for immediate physical danger or illegal lockouts. This ensures that a user in crisis gets a hotline number or emergency instructions before spending time answering administrative questions.## DisclaimerThis skill provides general legal information only — not legaladvice. It was created as a class project for LAW 5642: LegalAnalytics and Generative AI at LSU Law School. Users shouldconsult a licensed attorney for guidance specific to theirsituation.
-## AuthorG.Albini · LSU Law School · Spring 2026
-## LicenseMIT License — see LICENSE file for details.
+- **Workflow steps:** 7 distinct steps, moving from safety/jurisdiction to fact-gathering, and ending with resource mapping and urgency summaries.- **Key design choice:** The most important decision was implementing a "Safety First" trigger. Before asking any details about the legal merits of a case, the skill is hard-coded to check for immediate physical danger or illegal lockouts. This ensures that a user in crisis gets a hotline number or emergency instructions before spending time answering administrative questions.
+## DisclaimerThis skill provides general legal information only — not legaladvice. It was created as a class project for LAW 5642: LegalAnalytics and Generative AI at LSU Law School. Users shouldconsult a licensed attorney for guidance specific to theirsituation.
+## Author
+G.Albini · LSU Law School · Spring 2026
+## License
+MIT License — see LICENSE file for details.
